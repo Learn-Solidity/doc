@@ -8,3 +8,7 @@ https://remix.ethereum.org/
 ### Some Tutorial Sources
 
 https://www.youtube.com/watch?v=M576WGiDBdQ&t=9620s
+
+## Interesting Articles
+
+https://www.forbes.com/sites/forbestechcouncil/2018/09/11/10-questions-to-ask-before-you-use-blockchain/?sh=6ccc2a75693f
