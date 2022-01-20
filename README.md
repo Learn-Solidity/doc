@@ -5,6 +5,14 @@ This way you can see how your smart contract would perform on a live blockchain!
 
 https://remix.ethereum.org/
 
+### Chain Link Docs
+
+General docs page:
+https://docs.chain.link/docs
+
+Link token contracts - addresses used to get external data from the blockchain (such as price indices):
+https://docs.chain.link/docs/link-token-contracts/
+
 ### Some Tutorial Sources
 
 https://www.youtube.com/watch?v=M576WGiDBdQ&t=9620s
